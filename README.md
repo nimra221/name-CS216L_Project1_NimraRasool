@@ -36,3 +36,7 @@ Let n be the number of songs in the playlist and r be the number of recently pla
 
  GitHub Repository
 Repository link  : https://github.com/nimra221/name-CS216L_Project1_NimraRasool.git
+=======
+# name-CS216L_Project1_NimraRasool
+A Java-based Music Playlist Manager that uses a doubly linked list and stacks to manage songs. It supports adding, deleting, searching, sorting, playing next and previous songs, undoing deletions, and tracking recently played songs.
+>>>>>>> 2fbadb0611a1a55c9dfb97df6f2acd07a3e92512
